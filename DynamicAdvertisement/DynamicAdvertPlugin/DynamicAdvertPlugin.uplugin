@@ -1,0 +1,21 @@
+{
+	"FileVersion" : 1,
+	
+	"FriendlyName" : "DynamicAdvert",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "DynamicAdvert",
+	"CreatedByURL" : "",
+
+	"Description" : "DynamicAdvert",
+	"Category" : "Advert",
+	"EnabledByDefault" : false,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "DynamicAdvertPlugin",
+			"Type" : "Runtime"
+		}
+	]	
+}
